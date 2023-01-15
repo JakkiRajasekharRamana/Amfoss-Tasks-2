@@ -1,0 +1,35 @@
+1)
+Operators= *,-,/,+
+Values= 'hello',-88.8,5
+
+2)
+Variable=spam
+string='spam'
+
+3)integer,float and string
+
+4)
+Expresstion is made up of values and operators
+They will all evaluate down to a single value
+
+5)
+expresstion consits of values and operators which will/can further be evaluated but wheras in assignment statements the user will assign the values for a given variable.
+
+6)
+bacon will still store the value 20 because we are not changing the value of bacon 
+
+7)
+spamspamspam
+spamspamspam
+
+8)
+Python has some naming restrictions in which a variable shoud'nt start with a number.
+
+9)
+for integer,X=int(input())
+for float,X=float(input())
+for string,X=input()
+
+10)
+we are adding a string to an integer,python thinks that we are trying to concatenate an integer to a string and due to this python cannot do this automatically add them.
+we can correct it by converting it to string by changing it from 99 to '99'

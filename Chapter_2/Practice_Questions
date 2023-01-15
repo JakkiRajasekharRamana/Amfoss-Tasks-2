@@ -1,0 +1,70 @@
+1)
+The two values are True and False they are repesentated with Capital letters as their first letter aka "True","False"
+
+2)
+The three boolian operators are 'and','or' and 'not'
+
+3)
+For "and"
+True and True gives True/nTrue and False (or) False and True gives False
+False and False gives False
+For "or"
+True or True gives True 
+True or False (and) False or True gives True
+False or False gives False
+4)
+False
+False
+True
+False
+False
+True
+5)
+The six comparition operators are,
+Equal to (==)
+Not Equal to (!=)
+Less than (<)
+Greather Than (>)
+Less than or equal to (<=)
+Greather Than or equal to (>=)
+6)
+Equal to (==) asks the computer whether two values are same as each other
+Assignment (=) is used to assign a certain value(present in R.H.S side) in to a variable(present in the L.H.S side)
+7)
+Condition always evaluates a boolean expression into a True or False .
+Conditions will be used in flow control statements.
+8)
+The three blocks in this code are 
+1st block is in 3rd line of the given code
+2nd block is in 5th line of the given code
+3rd block is in 7th line of the given code
+9)
+spam=int(input("Enter any value:"))
+if(spam==1):
+    print("Hello")
+elif(spam==2):
+    print("Howdy")
+else:
+    print("Greetings!")
+10)
+If your stuck in a infinite loop then press CTRL-C or Shell > Restart Shell.CTRL-C can be used to terminate a program even if uts not in infinite loop.
+11)
+break statement is used when the user wants to come out of the loop if a given condition is satisfied 
+continue statement is used when if the user wants to jump back to the start of the loop and to revaluate the loop's condition.
+12)
+in the range(a,b,c) funtion is used in loops 
+here a is the starting value of a variable
+here b is the end-1 value of that variable
+here c is the incresing inotation of the same variable the if not mentioned the defalt will be taken as 1.
+there is no diffrence in these 3 range funtions mentioned in the question
+13)
+using for loop,
+for i in range(1,11):
+    print(i)
+using while loop,
+i=1
+while(i<11):
+    print(i)
+    i=i+1
+14)
+

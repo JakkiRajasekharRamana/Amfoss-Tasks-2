@@ -1,0 +1,31 @@
+1)
+The major advantage of a function is to group code that gets executed multiple times basically a long code which repeats itself can be chaniged into few lines of code by using funtions
+2)
+A function excutes only if the function is called ,once a function is defined we can execute it by calling it
+3)
+A function can be created by using the def statement
+4)
+A defined function usually contains a code which can can be exicuted everytime the function is called,funtion call is defined to call functions where as funtion is defined to a certain code.
+5)
+There will be only one global scope and will be created once the program begins and will destroyed once the program ends.
+one can have more than one local scope it depends on how many times a funtion will be called,each time a funtion is called = local scope(s) present.
+6)
+Once the funtion returns, the local scope will be destroyed and so will the variables present will be forgotten.
+7)
+A value that a funtion call evaluates to is called as the return value of the function.
+Yes a return value can be part of a expression, the return value is what a expression evalutes to.
+8)
+Python will add return none to the end of any funtion without showing no return statement.
+9)
+when we declare a value for a variable which is not inside a function python assumes it as its global variable
+10)
+The datatype of None value is the only value of the NoneType data type.
+11)
+It will import the value of 'areallyourpetsnamederic' into a given set of function or wherever the user wants to import the data to.
+12)
+bacon()
+13)
+We can prevent a crash by simply writing a try-except statement we can also use the statement sys.exit().
+14)
+Try and except clause(s) are used if an error occours ,the code which is likely to have a error will be be put in a try clause if the error happends the program execution move's to the start of a except clause which can contain a code which will be executed, then the execution will continue as normal.
+
