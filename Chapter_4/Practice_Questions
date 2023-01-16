@@ -1,0 +1,34 @@
+1)
+[] is used right after the list is defined to,it is an empity list which is similar to an empity string
+2)
+list.insert(2,'Hello')
+3)
+d or 'd'
+4)
+d or 'd'
+5)
+[a,b]
+6)
+1
+7)
+[3.14,'cat',11,'cat',True,99]
+8)
+[3.14,11,'cat',True]
+9)
+Two operators + and * will be used in which + combines two lists to create a new list and * will used with a list and an integer value to replicate the list.
+10)
+append() will be used if the user wants to add a element at the end of the list ,wheras insert() will be used when the user wants to insert a value at any specific location in the list.
+11)
+remove() can be used to remove the first occourace of the element the used wants to remove from the list and by using del statements we can remove a value from a list.
+12)
+Just like how string values aew typed with quote characters to marks where the string begins with an open square bracket and ends with a closing square bracket.
+13)
+Lists are typed with [] wheras tuple are typed with ().Tuples are immutable we cannot modify append or remove values from a tuple but can be done for lists.
+14)
+comma after 42 will tell python that the value before comma is tuple value . (42,)
+15)
+for getting a tuple form of a list value we use tuple(),for getting a list form of a tuple value we used list().
+16)
+they are actually stored at a certain memory address/refrences to lists.
+17)
+copy.copy() can be used to make a duplicate copy of a mutable value like a list or a dictionary,not just a copy of a reference.for copy.deepcopy() we used if the list you need to copy contains lists this will copy the files in them as well.
