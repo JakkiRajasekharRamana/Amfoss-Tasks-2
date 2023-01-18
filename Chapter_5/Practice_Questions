@@ -1,0 +1,34 @@
+1)
+Empity directory looks like 
+spam={}
+2)
+spam={'foo':'42'}
+3)
+Dictionaries are not ordered, they can’t be sliced like lists.
+let is consider an example 
+	*spam = ['cats', 'dogs', 'moose']
+	*bacon = ['dogs', 'moose', 'cats']
+	*spam == bacon
+	False
+	*eggs = {'name': 'Zophie', 'species': 'cat', 'age': '8'}
+	*ham = {'species': 'cat', 'age': '8', 'name': 'Zophie'}
+	*eggs == ham
+	True
+here we cans see that no matter the order in dictionaries(same) when compaired return true, this is not possible for lists.
+4)
+since the given key does not exist the result will show 'KeyError' message, this is like 'out-of-range' error from list's
+5)
+'cat' in spam will check if 'cat' exsits in a certain key or value  in a dictonary
+'cat' in spam.keys() will check if 'cat' exsits in any one of the keys present in a dictonary
+6)
+'cat' in spam will check if 'cat' exsits in a certain key or value  in the dictonary
+'cat' in spam.values() will check if 'cat' exsists in any one of the values in the dictonary
+7)
+we can use spam.setdefault('color', 'black')
+                (or)
+if 'color' not in spam:
+	spam.setdefault('color', 'black')
+8)
+The module used is pprint
+when used the funtions accesible are pprint() and pformat()
+

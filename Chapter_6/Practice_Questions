@@ -1,0 +1,7 @@
+1)
+Escape characters lets the user use charcters that are otherwise impossible to put into a string.
+2)
+\n is used to put a newline into a string
+\t is used to print Tab into the output
+3)
+
